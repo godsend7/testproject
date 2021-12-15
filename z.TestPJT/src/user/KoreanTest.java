@@ -4,8 +4,9 @@ public class KoreanTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//¾È³ç
-		//´ë´äÇØÁà
+		//ï¿½È³ï¿½
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		//ì´ê±° utf-8ì´ë¼êµ¬ì•„ì•„ì•„ì•„
 	}
 
 }
